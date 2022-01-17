@@ -1,7 +1,7 @@
-# Github-Practice-with-VS-Code
+# Github-Practice-with-Python-Code
 
 <p>
-Learning a new git
+Learning a new git Python Fundamentals
 
 </p>
 
